@@ -1,0 +1,1 @@
+# web-analytica-static
